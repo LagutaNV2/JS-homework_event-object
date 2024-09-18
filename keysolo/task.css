@@ -1,0 +1,23 @@
+.symbol {
+  font-size: 50px;
+  color: red;
+}
+
+.symbol_correct {
+  color: green;
+}
+
+.symbol_current {
+  border-bottom: 2px solid black;
+}
+
+/* скроем отдельныей символ */
+.symbol_invisible {
+  color: white;
+}
+
+.instruction {
+  font-size: 25px;
+  text-align: center;
+  color: red;
+}
