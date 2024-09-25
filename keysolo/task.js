@@ -7,7 +7,7 @@ class Game {
 
     //timer
     this.timerElement = container.querySelector('.timer');
-    this.interval = null;
+    this.intervalId = null;
 
     this.reset();
 
